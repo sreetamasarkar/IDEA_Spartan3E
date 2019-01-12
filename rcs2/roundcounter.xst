@@ -1,0 +1,5 @@
+set -tmpdir "D:/Masters/VHDL System Design Lab/submit/rcs2/xst/projnav.tmp"
+set -xsthdpdir "D:/Masters/VHDL System Design Lab/submit/rcs2/xst"
+elaborate
+-ifn roundcounter.prj
+-ifmt mixed

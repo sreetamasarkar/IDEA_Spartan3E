@@ -1,0 +1,29 @@
+Command line:
+   tb_idea_rcs2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55674
+
+Wed Jan 09 01:13:28 2019
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5178.26 Meg
+
+ Total Signals          : 261
+ Total Nets             : 1031
+ Total Signal Drivers   : 68
+ Total Blocks           : 37
+ Total Primitive Blocks : 33
+ Total Processes        : 52
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 1410
+Total Line Count : 269
+
+ Total Simulation Time: 0.84375 sec
+
+ Current Memory Usage: 5178.26 Meg
+
+Wed Jan 09 01:30:43 2019
+

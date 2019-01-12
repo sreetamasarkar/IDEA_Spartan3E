@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Masters/VHDL System Design Lab/submit/rcs2plus/tb_control_isim_beh.exe" -prj "D:/Masters/VHDL System Design Lab/submit/rcs2plus/tb_control_beh.prj" "work.tb_control" 

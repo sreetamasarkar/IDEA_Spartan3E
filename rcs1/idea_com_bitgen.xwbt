@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Masters\VHDL System Design Lab\submit\rcs1\idea_com.ncd
+OUTFILE=D:\Masters\VHDL System Design Lab\submit\rcs1\idea_com.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\Masters\VHDL System Design Lab\submit\rcs1
+LICENSE=WebPack
+USER_INFO=211437708_0_0_752

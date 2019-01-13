@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Masters/VHDL System Design Lab/submit/direct/tb_idea_isim_beh.exe" -prj "D:/Masters/VHDL System Design Lab/submit/direct/tb_idea_beh.prj" "tb_idea" 
